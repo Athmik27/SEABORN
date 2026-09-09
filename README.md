@@ -1,4 +1,4 @@
-#  Seaborn Module – Quick Revision
+#  Seaborn Module
 
 Seaborn is a Python library used for **statistical data visualization**.
 
